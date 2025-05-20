@@ -2,8 +2,7 @@
 <h3 align="center">Aspiring Full stack Developer | Tech Enthusiast | Lifelong Learner 🚀</h3>
 
 <p align="center">
-  <img src="![itsme](https://github.com/user-attachments/assets/1bc19555-691b-48ef-97a8-033ac6e09dba)
-" alt="Typing SVG" />
+  <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/roadmap-to-become-a-full-stack-developer_Image_blogs.png alt="Typing SVG" />
 </p>
 
 ---
