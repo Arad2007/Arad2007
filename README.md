@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Alok Kumar>
-<h3 align="center">Aspiring Full stack Developer | Tech Enthusiast | Lifelong Learner 🚀</h3>
+<h3 align="center"> Full stack Developer </h3>
 
 <p align="center">
   <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/roadmap-to-become-a-full-stack-developer_Image_blogs.png alt="Typing SVG" />
